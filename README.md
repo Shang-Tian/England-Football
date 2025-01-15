@@ -5,3 +5,4 @@ The aim of this research is to analyze the performance of the England national f
 
 The file used is the results.csv file in the International Football Results database，the specific link is: https://github.com/Shang-Tian/England-Football/blob/f8787d433217cf82f4f1e5637fccadf68e75b31d/results.csv
 The code is run in rstudio, the specific code is in the following link：https://github.com/Shang-Tian/England-Football/blob/9d37e045399edb320d9731098986e6f3dce8a3cd/England%20Football.R
+The generated process and results are detailed in the following documents： 
