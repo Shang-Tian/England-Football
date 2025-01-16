@@ -6,7 +6,7 @@ The aim of this research is to explore the performance of the England national f
 This study will complete the answers to three questions：1.	What trends can be identified in England's football performance over the years? 2.How does England perform when facing traditional European powerhouses in competitive versus friendly matches? 3.	How does England perform in different types of competitions?
 
 The file used is the results.csv file in the International Football Results database，the specific link is: https://github.com/Shang-Tian/England-Football/blob/f8787d433217cf82f4f1e5637fccadf68e75b31d/results.csv
-The code is run in rstudio, the specific code is in the following link：https://github.com/Shang-Tian/England-Football/blob/9d37e045399edb320d9731098986e6f3dce8a3cd/England%20Football.R
+The code is run in rstudio, the specific code is in the following link：https://github.com/Shang-Tian/England-Football/blob/a7443f8a081b6c348b7197358c83c62b366cb913/Code.R
 The generated process and results are detailed in the following documents： https://github.com/Shang-Tian/England-Football/blob/e69649cc14e14f4d01fbbed2fcbafaef02cab83b/Explanation%20of%20the%20generation%20process%20and%20results.docx
 
 Draw conclusions after analyzing data and graphs：
