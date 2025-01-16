@@ -7,7 +7,7 @@ This study will complete the answers to three questions：1.	What trends can be 
 
 The file used is the results.csv file in the International Football Results database，the specific link is: https://github.com/Shang-Tian/England-Football/blob/f8787d433217cf82f4f1e5637fccadf68e75b31d/results.csv
 The code is run in rstudio, the specific code is in the following link：https://github.com/Shang-Tian/England-Football/blob/a7443f8a081b6c348b7197358c83c62b366cb913/Code.R
-The generated process and results are detailed in the following documents： https://github.com/Shang-Tian/England-Football/blob/e69649cc14e14f4d01fbbed2fcbafaef02cab83b/Explanation%20of%20the%20generation%20process%20and%20results.docx
+The generated process and results are detailed in the following documents： https://github.com/Shang-Tian/England-Football/blob/11714a16f8322cab169ed35eaf191df5c39816f2/INF6027_240192149.R
 
 Draw conclusions after analyzing data and graphs：
 RQ1: What trends can be identified in England's football performance over the years? The analysis reveals significant fluctuations in England’s football performance over time. Peaks, such as the 1966 World Cup victory, highlight moments of success, while declines in the 1980s and 1990s suggest challenges in maintaining consistent performance. Recent trends, however, indicate signs of improvement, pointing towards possible adaptation and progress in recent decades.
